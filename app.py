@@ -14,7 +14,7 @@ REPLIES_SET_1 = [
     "For me its scary how much power this book has. I felt like someone had reached into my head and exposed everything about how money acutally works... ",
     "anyone wondering how to find a book, just type the full name of the book into google and it will come up",
     "The fact is, this book is real and it truly teaches you how to be successful. It's up to each of us to take the chance and read it. Goated book"
-    "IS IT REAL that people actually know about this book??? I’m so happy to see others who’ve read it too,
+    "IS IT REAL that people actually know about this book??? I’m so happy to see others who’ve read it too",
     "This book will become top 1 for money strategies and mindset, I can guarantee that. I highly recommend it to everyone..",
     "Ok so i started seeing this book everywhere lately and btw I did a little research… it actually seems like the real deal. I’m only on chapter 2 but it already has some crazy good info. I also looked deeper and heard that Ethan had some connections with secret societies and pulled a lot of knowledge from there that’s usually hidden from the average person, so no wonder the book is kinda hidden and so good",
     "this book is literally a must-read when it comes to money and success. I’m shocked it’s still not a best seller after so many legit stories",
@@ -332,6 +332,7 @@ def index():
 
 if __name__ == "__main__":
     app.run(debug=True)
+
 
 
 
